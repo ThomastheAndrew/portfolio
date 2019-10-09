@@ -1,0 +1,169 @@
+*{
+    padding:0;
+    margin:0;
+}
+
+body{
+    height: 621px;
+}
+.leftside{
+    background-color:#4b6584;
+    border:2px groove black;
+    float:left;
+    width:350px;
+    height:621px;
+}
+
+h1{
+    font-size:25pt;
+    color:white;
+    text-decoration:underline;
+    margin:15px;
+    text-align:center;
+}
+
+h2{
+    color:white;
+    padding:10px;
+    text-align:center;
+}
+
+.email{
+    color:white;
+    text-align: center;
+    font-size:13pt;
+    margin:10px;
+}
+
+.email img{
+    margin:-5px;
+    height:20px;
+}
+
+hr{
+    width:312px;
+    margin:16px;
+}
+
+h3{
+    color:white;
+    text-align:center;
+    font-size:27px;
+    margin:-19pt;
+    padding:20px;
+}
+
+.icon1{
+    font-size:90pt;
+    text-align:center;
+    margin:-45px;
+    color:white;
+    padding:10px;
+}
+
+.lang1{
+    text-align:center;
+    padding:35px;  
+    margin:-38px;;
+    color:white;
+    font-size:17px;
+    font-family:verdana;
+}
+
+.lang2{
+    text-align:center;
+    padding:-70px;
+    color:white;
+    font-size:17px;
+    font-family:verdana;
+}
+
+.me{
+    float:left;
+    height:466pt;
+}
+
+h4{
+    margin:20pt;
+    color:#4b6584;
+    font-size:25pt;
+}
+
+.text_about{
+    font-size:15px;
+    margin:-10pt;
+}
+
+h5{
+    margin:20pt;
+    color:#4b6584;
+    font-size:25pt;
+    padding:-15px;
+}
+
+.icon2{
+    font-size:90pt;
+    text-align:center;
+    margin:-55px;
+    color:white;
+    padding:-20px;
+}
+
+h6{
+    color:white;
+    text-align:center;
+    font-size:20pt;
+}
+
+
+.icon2 img{
+    width:50px;
+}
+
+.icon1 img{
+    width:50px;
+}
+
+.edu_title{
+    margin:-20pt;
+    font-size:25pt;
+    padding:-80pt;
+    color:#4b6584;
+}
+
+.edu{
+    text-align:center;
+    font-size:15px;
+    margin:40px;
+    position: relative;
+    left:-38px;
+}
+
+a{
+    color:black;
+    font-size:20px; 
+    text-decoration:none;
+}
+
+a:hover{
+    color:#4b6584;
+}
+
+.text_something {
+    font-size:16px; 
+}
+
+.calc img{ 
+ 
+   width:90px;
+   position: relative;
+   left:80px;
+}
+
+.go_up {
+    position: relative;
+    left:80px;
+    margin:-20px; 
+    bottom:-20px;
+}
+
